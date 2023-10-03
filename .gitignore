@@ -164,4 +164,4 @@ curl-str-process.py
 file-mod-size.py
 masv_env_setup.py
 upload_large_video.py
-.zip
+*.zip
